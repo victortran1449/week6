@@ -22,5 +22,12 @@ li:first-child::first-letter {
   font-style: bold;
 }
 a[title *= homepage] {
-    background-color: yellow;
+    background-color: yellow;}
+
+img {
+    float: left;
+}
+
+.below {
+    clear: left;
 }
