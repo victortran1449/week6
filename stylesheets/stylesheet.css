@@ -21,3 +21,6 @@ li:first-child::first-letter {
   font-size: 120%;
   font-style: bold;
 }
+a[title *= homepage] {
+    background-color: yellow;
+}
